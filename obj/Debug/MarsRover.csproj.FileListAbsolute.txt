@@ -1,0 +1,5 @@
+C:\Users\n.dolgopolov\RiderProjects\Pattern\MarsRover\bin\Debug\MarsRover.exe
+C:\Users\n.dolgopolov\RiderProjects\Pattern\MarsRover\bin\Debug\MarsRover.pdb
+C:\Users\n.dolgopolov\RiderProjects\Pattern\MarsRover\obj\Debug\MarsRover.csprojResolveAssemblyReference.cache
+C:\Users\n.dolgopolov\RiderProjects\Pattern\MarsRover\obj\Debug\MarsRover.exe
+C:\Users\n.dolgopolov\RiderProjects\Pattern\MarsRover\obj\Debug\MarsRover.pdb
