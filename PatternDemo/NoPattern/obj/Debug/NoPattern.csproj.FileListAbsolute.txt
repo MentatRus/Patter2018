@@ -1,0 +1,6 @@
+C:\Users\Nickolay\Source\Repos\Patter2018\PatternDemo\NoPattern\bin\Debug\NoPattern.exe.config
+C:\Users\Nickolay\Source\Repos\Patter2018\PatternDemo\NoPattern\bin\Debug\NoPattern.exe
+C:\Users\Nickolay\Source\Repos\Patter2018\PatternDemo\NoPattern\bin\Debug\NoPattern.pdb
+C:\Users\Nickolay\Source\Repos\Patter2018\PatternDemo\NoPattern\obj\Debug\NoPattern.csprojResolveAssemblyReference.cache
+C:\Users\Nickolay\Source\Repos\Patter2018\PatternDemo\NoPattern\obj\Debug\NoPattern.exe
+C:\Users\Nickolay\Source\Repos\Patter2018\PatternDemo\NoPattern\obj\Debug\NoPattern.pdb

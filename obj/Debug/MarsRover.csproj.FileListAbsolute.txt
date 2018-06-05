@@ -3,3 +3,10 @@ C:\Users\n.dolgopolov\RiderProjects\Pattern\MarsRover\bin\Debug\MarsRover.pdb
 C:\Users\n.dolgopolov\RiderProjects\Pattern\MarsRover\obj\Debug\MarsRover.csprojResolveAssemblyReference.cache
 C:\Users\n.dolgopolov\RiderProjects\Pattern\MarsRover\obj\Debug\MarsRover.exe
 C:\Users\n.dolgopolov\RiderProjects\Pattern\MarsRover\obj\Debug\MarsRover.pdb
+C:\Users\Nickolay\Source\Repos\Patter2018\obj\Debug\MarsRover.exe
+C:\Users\Nickolay\Source\Repos\Patter2018\obj\Debug\MarsRover.pdb
+C:\Users\Nickolay\Source\Repos\Patter2018\bin\Debug\MarsRover.exe
+C:\Users\Nickolay\Source\Repos\Patter2018\bin\Debug\MarsRover.pdb
+C:\Users\Nickolay\Source\Repos\Patter2018\obj\Debug\MarsRover.csprojResolveAssemblyReference.cache
+C:\Users\n.dolgopolov\Downloads\Patter2018\obj\Debug\MarsRover.exe
+C:\Users\n.dolgopolov\Downloads\Patter2018\obj\Debug\MarsRover.pdb

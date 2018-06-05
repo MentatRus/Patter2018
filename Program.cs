@@ -1,5 +1,16 @@
-﻿using System;
+﻿/*----------------------------------------------
+ * ProjectType: Win32 Console Application
+ * Project Name: Mars Rover
+ * File Name: Program.cs
+ * Programmer: Dolgopolov Nickolay
+ * Modified by: Dolgopolov Nickolay
+ * Liter Source: refactoring.guru/ru/design-patterns/catalog
+ * Created:29.05.2018
+ * Last Revision: 30.05.2018
+ * Comments: Демонстрация паттернов Command, Observer и Facade
+ ***********************************************/
 
+using System;
 namespace MarsRover
 {
     internal class Program
@@ -7,28 +18,14 @@ namespace MarsRover
         
         public static void Main(string[] args)
         {
-            Rover rover = new Rover();
+            //Создание экземпляра фасадного класса, инкапсулирующего логику программы
+            RoverFacade facade = new RoverFacade();
+
+            //Чтение ввода пользователя
             while (true)
             {
                 string input = Console.ReadLine();
-                if (input.Length == 1)
-                {
-                    char commandDirection = input[0];
-                    if (commandDirection == 'c')
-                    {
-                        if (rover._commands.Count != 0)
-                        {
-                            ICommand c = rover._commands.Pop();
-                            c.Undo();
-                        }
-                    }
-                    else
-                    {
-                        var command = new RoverCommand(commandDirection,rover);
-                        command.Execute();
-                    }
-                }
-                Console.WriteLine(rover);
+                facade.ExecuteCommand(input);
 
             }
         }
